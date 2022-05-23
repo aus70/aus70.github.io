@@ -22,8 +22,9 @@ Physicist, thinker, programmer, entrepreneur
 E-commerce platform for 3D-Printing bureaus, the first startup of its kind completely based on serverless (AWS) technology.
 * __Founder and Managing Director of In Numero LLC__\
 Software development and data modeling consultancy in the fields of finance and medical data.\
+Development of pricing algorithms for financial derivatives.\
 Designed the architecture of a data-acquisition and analysis platform for medical IoT appliances.\
-Formed a mixed remote/local team, kicked-off development.
+Formed and managed a mixed remote/local development team.
 * __CTO at CustVox__ (now [SandSiv](https://sandsiv.com)).\
 Acqui-hired with the Zeelch platform: hired a fully remote team.\
 Designed and developed a ML-based text-analytics web app.
@@ -34,7 +35,7 @@ Designed and developed a ML-based text-analytics web app.
 * __Researcher__, Institute for Biotechnology, ETH Zurich.\
 Pioneered the modeling and simulation of gene and biochemical networks.
 * __Doctoral student__ and assistant at the [Institute for Neuroinformatics](https://www.ini.uzh.ch/~ale/), ETH Zurich.\
-Modeling of brain functions.
+Modeled brain function with binary, stochastic neural networks.
 
 ## Education
 `2013`
