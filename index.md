@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Alessandro Usseglio Viretta's CV
+title: Dr Alessandro Usseglio Viretta's CV
 ---
 # Alessandro Usseglio Viretta
 Physicist, thinker, programmer, entrepreneur
