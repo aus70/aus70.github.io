@@ -6,7 +6,7 @@ title: Alessandro Usseglio Viretta's CV
 Physicist, thinker, programmer, entrepreneur
 
 <div id="webaddress">
-<a href="me@auv.name">auv.name</a>
+<a href="mailto:me@auv.name">me@auv.name</a>
 </div>
 
 
