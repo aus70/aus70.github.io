@@ -27,7 +27,7 @@ Designed the architecture of a data-acquisition and analysis platform for medica
 Formed and managed a mixed remote/local development team.
 * __CTO at CustVox__ (now [SandSiv](https://sandsiv.com)).\
 Acqui-hired with the Zeelch platform.\
-Hired a fully remote team, designed and developed a ML-based text-analytics web app.
+Hired and managed a fully remote team, designed and developed a ML-based text-analytics web app.
 * __Designer and developer of the Zeelch social identity platform__, acquired by CustVox.
 * __Manager/Consultant at Oliver Wyman London__, financial risk modeling for major banks.
 * __Consultant at IRIS integrated risk management AG__, ALM app for banks.
