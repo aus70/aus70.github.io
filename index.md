@@ -3,7 +3,7 @@ layout: cv
 title: Alessandro Usseglio Viretta's CV
 ---
 # Alessandro Usseglio Viretta
-Physicist, programmer, entrepreneur
+Physicist, thinker, programmer, entrepreneur
 
 <div id="webaddress">
 <a href="me@auv.name">auv.name</a>
@@ -15,42 +15,51 @@ Physicist, programmer, entrepreneur
 * Head of Tech Talent and Innovation at [Tributary Ventures](https://tributaryventures.com): Analysis of prospective portfolio companies.
 * Engaged dad of a 7-year-old girl.
 
-### Past
+## Past
 
 `2004-2021`
-* Founder, developer and Managing Director of [Fabnami](https://fabnami.com), e-commerce platform for 3D-Printing bureaus, the first startup of its kind completely based on serverless (AWS) technology.
-* Founder and Managing Director of In Numero LLC, software development and data modeling consultancy active in the fields of finance and medical data. Designed the architecture of a data-acquisition and analysis platform for medical IoT appliances, formed a mixed remote/local team, kicked-off development.
-* CTO at CustVox (now [SandSiv](https://sandsiv.com)), acqui-hired with the Zeelch platform: hired a fully remote team, designed and developed a ML-based text-analytics web app.
-* Developer of the Zeelch social identity platform, acquired by CustVox.
-* Manager/Consultant at Oliver Wyman London, financial risk modeling for major banks.
-* Consultant at IRIS integrated risk management AG, ALM app for banks.
-* Project leader, Institute for Robotics and Intelligent Systems, ETH Zurich.
-* Researcher, Institute for Biotechnology, ETH Zurich, pioneered the modeling and simulation of gene and biochemical networks.
-* Doctoral student and assistant at the [Institute for Neuroinformatics](https://www.ini.uzh.ch/~ale/), ETH Zurich, modeling of brain functions.
+* __Founder, developer and Managing Director of [Fabnami](https://fabnami.com)__\
+E-commerce platform for 3D-Printing bureaus, the first startup of its kind completely based on serverless (AWS) technology.
+* __Founder and Managing Director of In Numero LLC__\
+Software development and data modeling consultancy in the fields of finance and medical data.\
+Designed the architecture of a data-acquisition and analysis platform for medical IoT appliances.\
+Formed a mixed remote/local team, kicked-off development.
+* __CTO at CustVox__ (now [SandSiv](https://sandsiv.com)).\
+Acqui-hired with the Zeelch platform: hired a fully remote team.\
+Designed and developed a ML-based text-analytics web app.
+* __Designer and developer of the Zeelch social identity platform__, acquired by CustVox.
+* __Manager/Consultant at Oliver Wyman London__, financial risk modeling for major banks.
+* __Consultant at IRIS integrated risk management AG__, ALM app for banks.
+* __Project leader__, Institute for Robotics and Intelligent Systems, ETH Zurich.
+* __Researcher__, Institute for Biotechnology, ETH Zurich.\
+Pioneered the modeling and simulation of gene and biochemical networks.
+* __Doctoral student__ and assistant at the [Institute for Neuroinformatics](https://www.ini.uzh.ch/~ale/), ETH Zurich.\
+Modeling of brain functions.
 
 ## Education
 `2013`
-__ZHAW School of Management and Law__
+__ZHAW School of Management and Law__\
 Growth & International strategies, product management and development, growth financing, personal and team management.
 
 `1997-2003`
-__Doctoral student and assistant at the Institute for Neuroinformatics, ETH Zurich__
+__Doctoral student and assistant at the Institute for Neuroinformatics, ETH Zurich__\
 Modeling of brain function with Hopfield neural networks.
 
 `1995-1996`
-__Technical Student, CERN Geneva__
-Simulated and manufactured and tested a particle detector prototype.
+__Technical Student, CERN Geneva__\
+Simulated, manufactured and tested a particle detector prototype.
 
 `1990-1995`
-__Physics, at the University of Torino (Italy) and Heidelberg (Germany).__
+__Physics, at the University of Torino (Italy) and Heidelberg (Germany).__\
+Physics major, Biophysics minor, diploma thesis at CERN. 
 
 ## Computing
 
-* Started developing software in 1995: assembler on a ZX Spectrum
-* Experienced the early time of the Web at CERN
-* Simulated atomic-scale events with Fortran
-* Used in production C, C++, Java, Scala.
-* Python is a necessary evil.
+* Started in 1985 with assembler on a ZX Spectrum.
+* Experienced the early time of the Web at CERN.
+* Simulated atomic-scale events with Fortran.
+* Used C, C++, Java, Scala in production.
+* Considers Python a necessary evil.
 * Currently hooked on Elixir and the PETAL stack.
 
 ## Publications
