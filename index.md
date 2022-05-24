@@ -17,30 +17,32 @@ Physicist, thinker, programmer, entrepreneur
 
 ## Past
 
-`2004-2021`
+`2010-2021`
 * __Founder, developer and Managing Director of [Fabnami](https://fabnami.com)__\
 E-commerce platform for 3D-Printing bureaus, the first startup of its kind completely based on serverless (AWS) technology.
+* __CTO at CustVox__ (now [SandSiv](https://sandsiv.com)).\
+Acqui-hired with the Zeelch platform.\
+Hired and managed a fully remote team, designed and developed a ML-based text-analytics web app.
+* __Designer and developer of the Zeelch social identity platform__, acquired by CustVox.
+
+`2005-2010`
 * __Founder and Managing Director of In Numero LLC__\
 Software development and data modeling consultancy in the fields of finance and medical data.\
 Development of pricing algorithms for financial derivatives.\
 Designed the architecture of a data-acquisition and analysis platform for medical IoT appliances.\
 Formed and managed a mixed remote/local development team.
-* __CTO at CustVox__ (now [SandSiv](https://sandsiv.com)).\
-Acqui-hired with the Zeelch platform.\
-Hired and managed a fully remote team, designed and developed a ML-based text-analytics web app.
-* __Designer and developer of the Zeelch social identity platform__, acquired by CustVox.
 * __Manager/Consultant at Oliver Wyman London__, financial risk modeling for major banks.
 * __Consultant at IRIS integrated risk management AG__, ALM app for banks.
+  
+`2003-2005`
 * __Project leader__, Institute for Robotics and Intelligent Systems, ETH Zurich.
 * __Researcher__, Institute for Biotechnology, ETH Zurich.\
 Pioneered the modeling and simulation of gene and biochemical networks.
-* __Doctoral student__ and assistant at the [Institute for Neuroinformatics](https://www.ini.uzh.ch/~ale/), ETH Zurich.\
-Modeled brain function with binary, stochastic neural networks.
 
 ## Education
 `2013`
 __ZHAW School of Management and Law__\
-Growth & International strategies, product management and development, growth financing, personal and team management.
+Growth & international strategies, product management and development, financing, personal and team management.
 
 `1997-2003`
 __Doctoral student and assistant at the Institute for Neuroinformatics, ETH Zurich__\
