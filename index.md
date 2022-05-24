@@ -65,6 +65,12 @@ Physics major, Biophysics minor, diploma thesis at CERN.
 * Considers Python a necessary evil.
 * Currently hooked on Elixir and the PETAL stack.
 
+## Languages
+* Italian mother tongue
+* Highly proficient English
+* Good German
+* Basic French and Spanish
+
 ## Publications
 
 * __An engineered epigenetic transgene switch in mammalian cells__, *Nature Biotechnology* Volume __22__, pages 867–870 (2004)
