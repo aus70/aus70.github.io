@@ -30,7 +30,7 @@ Hired and managed a fully remote team, designed and developed a ML-based text-an
 Software development and data modeling consultancy in the fields of finance and medical data.\
 Development of pricing algorithms for financial derivatives.\
 Designed the architecture of a data-acquisition and analysis platform for medical IoT appliances.\
-Formed and managed a mixed remote/local development team.
+Hired and managed a mixed remote/local development team.
 * __Manager/Consultant at Oliver Wyman London__, financial risk modeling for major banks.
 * __Consultant at IRIS integrated risk management AG__, ALM app for banks.
   
