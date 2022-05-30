@@ -27,7 +27,7 @@ Hired and managed a fully remote team, designed and developed a ML-based text-an
 
 `2005-2010`
 * __Founder and Managing Director of In Numero LLC__\
-Software development and data modeling consultancy in the fields of finance and medical data.\
+Software development and data modeling consultancy in the fields of financial and medical data.\
 Development of pricing algorithms for financial derivatives.\
 Designed the architecture of a data-acquisition and analysis platform for medical IoT appliances.\
 Hired and managed a mixed remote/local development team.
