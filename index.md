@@ -3,7 +3,8 @@ layout: cv
 title: Dr Alessandro Usseglio Viretta's CV
 ---
 # Alessandro Usseglio Viretta
-Physicist, thinker, programmer, entrepreneur
+
+From developing particle detectors at CERN to modeling brain function, gene networks, and financial markets: A software enthusiast pushing the boundaries of science, technology, and business.
 
 <div id="webaddress">
 <a href="mailto:me@auv.name">me@auv.name</a>
@@ -12,8 +13,9 @@ Physicist, thinker, programmer, entrepreneur
 
 ## Currently
 
+* Exploring Large Language Models' business potential 
 * Head of Tech Talent and Innovation at [Tributary Ventures](https://tributaryventures.com): Analysis of prospective portfolio companies.
-* Engaged dad of a 7-year-old girl.
+* Engaged dad of a 8-year-old girl.
 
 ## Past
 
