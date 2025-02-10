@@ -14,12 +14,12 @@ From developing particle detectors at CERN to modeling brain function, gene netw
 ## Currently
 
 * Exploring Large Language Models' business potential 
-* Head of Tech Talent and Innovation at [Tributary Ventures](https://tributaryventures.com): Analysis of prospective portfolio companies.
-* Engaged dad of a 8-year-old girl.
+* Engaged dad of a 10-year-old girl.
 
 ## Past
 
-`2010-2021`
+`2010-2024`
+* __Head of Tech Talent and Innovation at [Tributary Ventures](https://tributaryventures.com)__: Analysis of prospective portfolio companies.
 * __Founder, developer and Managing Director of [Fabnami](https://fabnami.com)__\
 E-commerce platform for 3D-Printing bureaus, the first startup of its kind completely based on serverless (AWS) technology.
 * __CTO at CustVox__ (now [SandSiv](https://sandsiv.com)).\
@@ -65,7 +65,7 @@ Physics major, Biophysics minor, diploma thesis at CERN.
 * Simulated atomic-scale events with Fortran.
 * Used C, C++, Java, Scala in production.
 * Considers Python a necessary evil.
-* Currently hooked on Elixir and the PETAL stack.
+* Hooked on Elixir and the PETAL stack.
 
 ## Languages
 * Italian mother tongue
@@ -82,4 +82,4 @@ Physics major, Biophysics minor, diploma thesis at CERN.
 * __Fly-like visuomotor responses of a robot using aVLSI motion-sensitive chips__, *Biological Cybernetics* Volume __85__, pages 449–457 (2001)
 
 
-
+Last update <span style="small">Feb 2025</span>.
