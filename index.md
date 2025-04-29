@@ -8,8 +8,6 @@ From developing particle detectors at CERN to modeling brain function, gene netw
 
 <div id="webaddress">
 <a href="mailto:me@auv.name">me@auv.name</a>
-<p>Grebelackerstrasse 33</br>
-8057 Zurich, Switzerland</p>
 </div>
 
 
