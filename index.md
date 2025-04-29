@@ -8,11 +8,14 @@ From developing particle detectors at CERN to modeling brain function, gene netw
 
 <div id="webaddress">
 <a href="mailto:me@auv.name">me@auv.name</a>
+<p>Grebelackerstrasse 33</br>
+8057 Zurich, Switzerland</p>
 </div>
 
 
 ## Currently
 
+* Developing AI Agents for business automation
 * Exploring Large Language Models' business potential 
 * Engaged dad of a 10-year-old girl.
 
@@ -63,9 +66,7 @@ Physics major, Biophysics minor, diploma thesis at CERN.
 * Started in 1985 with assembler on a ZX Spectrum.
 * Experienced the early time of the Web at CERN.
 * Simulated atomic-scale events with Fortran.
-* Used C, C++, Java, Scala in production.
-* Considers Python a necessary evil.
-* Hooked on Elixir and the PETAL stack.
+* Currently hooked on Python.
 
 ## Languages
 * Italian mother tongue
@@ -82,4 +83,4 @@ Physics major, Biophysics minor, diploma thesis at CERN.
 * __Fly-like visuomotor responses of a robot using aVLSI motion-sensitive chips__, *Biological Cybernetics* Volume __85__, pages 449–457 (2001)
 
 
-Last update <span style="small">Feb 2025</span>.
+Last update <span style="small">April 2025</span>.
